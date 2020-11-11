@@ -1,0 +1,4 @@
+.architect
+node_modules
+sam.json
+sam.yaml
